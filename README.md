@@ -1,23 +1,19 @@
 # datafun-04-eda
 
-datafun-04-eda
+**Author:** Stacey Olson  
+**Repository:** `datafun-04-eda`
 
-Author: Stacey Olson
-Repository: datafun-04-eda
+## 1) Project Overview
+This is my exploratory data analysis (EDA) starter project. It uses a Jupyter notebook and a Python virtual environment to analyze data with pandas, seaborn, and matplotlib. The dataset is the classic Iris dataset (loaded via `seaborn.load_dataset('iris')`).
 
-Project Overview
+## 2) Requirements
+- Python 3.11+ (or your course standard)
+- `pip`
+- VS Code (recommended) with the Jupyter extension
 
-This is my exploratory data analysis (EDA) starter project.
-It uses a Jupyter notebook and a Python virtual environment to analyze data using tools like pandas.
+## 3) Getting Started
 
-Getting Started
-
-Clone this repository from GitHub
-
-Create and activate a local virtual environment (python3 -m venv .venv)
-
-Install dependencies (pip install -r requirements.txt)
-
-Open the .ipynb notebook in VS Code
-
-Set the kernel to the .venv and click Run All
+### Clone the repository
+```bash
+git clone https://github.com/staceyolson23-blip/datafun-04-eda.git
+cd datafun-04-eda
